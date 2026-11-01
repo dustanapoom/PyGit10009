@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         VENV_DIR   = 'venv'
-        DEPLOY_DIR = 'C:\\dus6952D10009\\PyGit10009'
+        DEPLOY_DIR = 'C:\\dus6952D10009\\project'
     }
 
     options {
